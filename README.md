@@ -2,13 +2,10 @@
   <img src="https://readme-typing-svg.vercel.app/?lines=Hi+there,+I'm+Dmytrij+👋;Flutter+Developer+%26+Open+Source+Contributor;Passionate+about+clean+code+%26+performance&center=true&width=500&height=50">
 </div>
 
-<div align="center"><sub>Flutter Developer · 15+ apps · Clean code & performance</sub></div>
-
----
+<div align="center">Flutter Developer · 15+ apps · Clean code & performance</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okladnoj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD5FFF&text_color=FFFFFF&icon_color=BD5FFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okladnoj&theme=radical&hide_border=true&background=0D1117&stroke=BD5FFF&ring=BD5FFF&fire=BD5FFF&currStreakNum=FFFFFF&currStreakLabel=BD5FFF&sideNums=FFFFFF&sideLabels=BD5FFF&dates=BD5FFF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -68,6 +65,9 @@
 ## 📫 Let's Connect
 
 <div align="start">
+  <a href="https://okladnoj-bio.web.app/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Website" />
+  </a>
   <a href="https://t.me/okladnoj">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
