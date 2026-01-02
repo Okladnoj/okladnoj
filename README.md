@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hi+there,+I'm+Dmytrij+👋;Flutter+Developer+%26+Open+Source+Contributor;Passionate+about+clean+code+%26+performance&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hi+there,+I'm+Dmytrij+👋;Flutter+Developer+%26+Open+Source+Contributor;Passionate+about+clean+code+%26+performance&center=true&width=700&height=50" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,7 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okladnoj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD5FFF&text_color=FFFFFF&icon_color=BD5FFF&cache_seconds=86400" alt="GitHub Stats" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okladnoj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD5FFF&text_color=FFFFFF&icon_color=BD5FFF)
+
 </div>
 
 ---
