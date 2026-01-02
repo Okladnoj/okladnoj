@@ -9,9 +9,7 @@
 <div align="center">
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okladnoj&theme=radical" alt="GitHub Stats" />
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okladnoj&theme=radical" alt="GitHub Stats" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=okladnoj&theme=radical" alt="GitHub Stats" />
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=okladnoj&theme=radical" alt="GitHub Stats" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=okladnoj&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
